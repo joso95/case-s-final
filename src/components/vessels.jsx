@@ -6,8 +6,7 @@ import {
     TableHead,
     TableRow,
     Button,
-    ButtonGroup,
-    TableSortLabel,
+    ButtonGroup
   } from "@material-ui/core";
   
   
@@ -25,7 +24,6 @@ import {
               <TableCell align="right">IMO</TableCell>
               <TableCell align="right">Year built</TableCell>
               <TableCell aling='right'>Certifications</TableCell>
-              
             </TableRow>
           </TableHead>
           <TableBody>

@@ -9,7 +9,6 @@ import {
   TableRow,
   Button,
   ButtonGroup,
-  Paper
 } from "@material-ui/core";
 
 const Certificates = ({ shipData, newShipIndex, setIndexFunc, ...props }) => {
